@@ -13,6 +13,7 @@ header {
   background-size: 30%;
   background-repeat: repeat;
   background-color: #4ea0ff;
+  background-position: top;
   height: 60px;
 }
 .logo {
