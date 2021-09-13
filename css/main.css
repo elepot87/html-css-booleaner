@@ -5,6 +5,7 @@
 .container {
   width: 800px;
   margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 /* Header */
@@ -84,4 +85,34 @@ thead {
 
 .table-light-blu {
   background-color: #b1e5f2;
+}
+
+/* Footer */
+footer {
+  margin-top: 30px;
+}
+
+.footer-text {
+  color: #838383;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.footer-image {
+  width: 200px;
+  height: 150px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  background-size: cover;
+}
+
+#img-footer-1 {
+  background-image: url("../img/monitor.jpg");
+}
+
+#img-footer-2 {
+  background-image: url("../img/graph.jpg");
 }
