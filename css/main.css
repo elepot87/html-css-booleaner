@@ -30,6 +30,7 @@ h1 {
 .info-autore {
   color: #838383;
   line-height: 15px;
+  margin-bottom: 20px;
 }
 
 a {
@@ -39,4 +40,16 @@ a {
 
 .data {
   font-size: 11px;
+}
+
+#immagine-1 {
+  width: 52%;
+}
+
+#immagine-2 {
+  width: 44%;
+}
+
+.didascalia {
+  font-size: 10px;
 }
