@@ -28,7 +28,7 @@ h1 {
   font-size: 30px;
 }
 
-.info-autore {
+.info-author {
   color: #838383;
   line-height: 15px;
   margin-bottom: 20px;
@@ -43,14 +43,23 @@ a {
   font-size: 11px;
 }
 
-#immagine-1 {
+#img-1 {
   width: 52%;
 }
 
-#immagine-2 {
+#img-2 {
   width: 44%;
 }
 
-.didascalia {
+.caption {
   font-size: 10px;
+}
+
+.content {
+  font-size: 14px;
+}
+
+ul {
+  padding-left: 0;
+  margin-left: 12px;
 }
