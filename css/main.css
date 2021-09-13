@@ -63,3 +63,25 @@ ul {
   padding-left: 0;
   margin-left: 12px;
 }
+
+.highlighted {
+  background-color: yellow;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+thead {
+  background-color: #20a9e5;
+  color: #fff;
+  text-align: left;
+}
+
+.small-column {
+  width: 25%;
+}
+
+.table-light-blu {
+  background-color: #b1e5f2;
+}
