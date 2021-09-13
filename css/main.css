@@ -20,3 +20,23 @@ header {
   height: auto;
   padding: 25px 0 0 5px;
 }
+
+/* Sezioni */
+h1 {
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+.info-autore {
+  color: #838383;
+  line-height: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #49b8e9;
+}
+
+.data {
+  font-size: 11px;
+}
